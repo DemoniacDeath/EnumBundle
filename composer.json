@@ -1,5 +1,5 @@
 {
-    "name": "fervo/enum-bundle",
+    "name": "demoniacdeath/enum-bundle",
     "description": "A library to integrate enums into the Symfony framework",
     "license": "MIT",
     "type": "symfony-bundle",
